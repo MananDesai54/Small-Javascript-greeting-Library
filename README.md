@@ -1,2 +1,2 @@
-# Small-Javascript-greeting-framework
+# Small-Javascript-greeting-Library
 Used JavaScript with advanced topic and added support for jQuery in it....
